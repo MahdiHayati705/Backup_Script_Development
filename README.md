@@ -1,12 +1,6 @@
-# Backup_Script_Development
-This bash shell script will backup everything within the Source Path, put them all in a zip file, and put the zip file within the Destination Path. Also, it generates detailed logs of file specifics, timestamps, and system data.
-
-
 <h1 align="center">
 <strong>Backup_Script_Development</strong>
 </h1>
-
-# **Backup Script Development**
 
 This repo focuses on the creation of a shell script designed to efficiently perform backup operations and generate comprehensive logs.
 
